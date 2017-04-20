@@ -1,0 +1,22 @@
+h1 {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: large;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: small;
+  font-weight: bold;
+}
+
+th {
+  font-weight: bold;
+}
+
+table {
+  margin-left: 12px;
+}
