@@ -85,9 +85,11 @@ function newNumberOrStringCheck() {
   event.preventDefault();
 }
 
+/*
 $("#acceptNumbersAndStrings").submit(function (event) {
   'use strict';
   newNumberOrStringCheck();
   //window.alert("Handler for .submit() called.");
   event.preventDefault();
 });
+*/
